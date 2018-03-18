@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AllNews</string>
+    <string name="TOI_news">TOI news</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string-array name="urlNews">
+        <item>"https://newsapi.org/v1/articles?source=the-times-of-india&amp;sortBy=top&amp;apiKey=5f9b844760b5410a842ec677d986d713"</item>
+        <item>"https://newsapi.org/v1/articles?source=the-hindu&amp;sortBy=top&amp;apiKey=5f9b844760b5410a842ec677d986d713"</item>
+        <item>"https://newsapi.org/v1/articles?source=the-telegraph&amp;sortBy=top&amp;apiKey=5f9b844760b5410a842ec677d986d713"</item>
+        <item>"https://newsapi.org/v1/articles?source=the-economist&amp;sortBy=top&amp;apiKey=5f9b844760b5410a842ec677d986d713"</item>
+    </string-array>
+</resources>
